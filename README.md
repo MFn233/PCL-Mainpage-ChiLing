@@ -12,7 +12,7 @@
 ### 使用方法
 
 #### [推荐]联网更新：
-  网址：http://samiuv.mcfuns.cn/PCL2/Custom.xaml
+  网址：https://github.com/MFn233/PCL-Mainpage-ChiLing/Custom.xaml
 ![PixPin_2024-03-24_11-08-47](https://github.com/YuShanNan/ChiLing-HomePage-PCL2/assets/64715990/bc5a9a02-e2c1-4074-a544-96b191573f3d)
 
 
